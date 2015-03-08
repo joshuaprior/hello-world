@@ -1,2 +1,3 @@
 # hello-world
-Sample
+
+Helloing it up in a brand new sample app!
